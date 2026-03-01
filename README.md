@@ -35,6 +35,6 @@ Beyond layout and styling, AI was primarily used for proofreading and polishing 
 To view the portfolio locally:
 
 ```bash
-git clone https://github.com/KSingaram-usf/portfolio-66097544.git
+git clone [https://github.com/KSingaram-usf/portfolio-66097544.git
 cd portfolio-66097544
-open index.html
+open index.html](https://kushal-555.github.io/Kushal_Singaram_Portfolio/)
