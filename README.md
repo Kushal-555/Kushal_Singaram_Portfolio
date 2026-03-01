@@ -1,4 +1,4 @@
-# Kushal Reddy Singaram – Portfolio
+# Kushal Reddy Singaram (Portfolio)
 
 This project was developed as part of my academic coursework focused on foundational web technologies. It demonstrates proficiency in HTML5 structure, semantic elements, and responsive layout techniques. The goal was to create a clean, accessible, and scalable portfolio page that serves as a personal introduction and a showcase for future projects.
 
